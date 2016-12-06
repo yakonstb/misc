@@ -356,7 +356,7 @@ msgstr "Исключить"
 #: ../src/fsearch_window.c:791
 #, c-format
 msgid "%'d Items"
-msgstr "%'d элемент(ы/а/ов)"
+msgstr "%'d элемент(а/ов)"
 
 #: ../src/fsearch_window.c:797
 msgid "Last Updated: %Y-%m-%d %H:%M"
